@@ -1,0 +1,40 @@
+{
+  "name": "plant-disease-scanner",
+  "version": "1.0.0",
+  "description": "AI-powered crop disease detection application developed by Reesha Sayana. Advanced plant disease scanner with AI model built and trained by Reesha. Connect with me on GitHub (reeshasayana-commits).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "keywords": [
+    "plant-disease",
+    "ai",
+    "tensorflow",
+    "nodejs",
+    "express",
+    "Reesha Sayana",
+    "reeshasayana",
+    "@reeshasayana",
+    "reeshasayana-commits",
+    "crop disease finder",
+    "AI agriculture",
+    "agricultural technology",
+    "plant health",
+    "farming technology",
+    "ArogyaKrishi"
+  ],
+  "author": "Reesha Sayana (reeshasayana-commits) - GitHub: reeshasayana-commits",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^17.2.4",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "form-data": "^4.0.0",
+    "mongoose": "^7.5.0"
+  }
+}

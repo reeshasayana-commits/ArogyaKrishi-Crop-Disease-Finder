@@ -1,0 +1,16 @@
+node_modules/
+.git/
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.npm/
+.ipynb_checkpoints/
+*.md
+!README.md
+Dockerfile
+.dockerignore
+implementation_plan.md
+task*.md
+walkthrough*.md
